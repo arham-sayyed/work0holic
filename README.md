@@ -29,6 +29,9 @@ Work0Holic is your go-to web app for team collaboration and personal productivit
 
 ### Todo List
 📝 **Tasks**:
+- [x] Write README.md file
+- [ ] Add UI designs
+
 - [ ] Add progress tracker
 - [ ] Add task list
 - [ ] Add file drive
