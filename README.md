@@ -1,6 +1,6 @@
 # Work0Holic
 
-## Important: 
+### Important: 
 ## LOOKING FOR COLLABORATORS 📢
 
 [![GitHub issues](https://img.shields.io/github/issues/arham-sayyed/work0holic)](https://github.com/arham-sayyed/work0holic/issues)
