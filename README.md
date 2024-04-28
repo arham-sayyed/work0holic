@@ -32,10 +32,30 @@ Work0Holic is your go-to web app for team collaboration and personal productivit
 
 📋 **Kanban Board** (coming soon): Visualize your team's workflow with our upcoming Kanban board feature. Get inspired by [this example](https://webix.com/demos/kanban/)!
 
+
+### Technologies i'm planning to use (can be improved)
+
+- **Languages**: HTML, CSS, JavaScript
+- **Frontend Framework**: React
+- **Backend Framework**: Node.js, Express.js
+- **Database**: Firebase 
+- **UI Framework**: Bootstrap, Tailwind, Material UI
+- **Version Control**: Git
+- **Development Tools**: GitHub
+
+### Standards/Models (can be improved)
+
+- **Design Patterns**: Model-View-Controller (MVC)
+- **API Standards**: RESTful API
+
+
+
 ### Todo List
 📝 **Tasks**:
 - [x] Write README.md file
+- [x] Structure the project
 - [ ] Add UI designs
+- [ ] Add Login page 
 
 - [ ] Add progress tracker
 - [ ] Add task list
