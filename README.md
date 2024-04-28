@@ -33,7 +33,7 @@ Work0Holic is your go-to web app for team collaboration and personal productivit
 📋 **Kanban Board** (coming soon): Visualize your team's workflow with our upcoming Kanban board feature. Get inspired by [this example](https://webix.com/demos/kanban/)!
 
 
-### Technologies i'm planning to use (can be improved)
+### ⚛️ Technologies i'm planning to use (can be improved)
 
 - **Languages**: HTML, CSS, JavaScript
 - **Frontend Framework**: React
@@ -43,7 +43,7 @@ Work0Holic is your go-to web app for team collaboration and personal productivit
 - **Version Control**: Git
 - **Development Tools**: GitHub
 
-### Standards/Models (can be improved)
+### 🏗️ Standards/Models (can be improved)
 
 - **Design Patterns**: Model-View-Controller (MVC)
 - **API Standards**: RESTful API
@@ -62,6 +62,34 @@ Work0Holic is your go-to web app for team collaboration and personal productivit
 - [ ] Add file drive
 - [ ] Add events calendar
 - [ ] Add Kanban board
+
+### 📂 current project structure
+```
+📁 project_name
+│   📄 .gitignore
+│   📄 index.js
+│   📄 LICENSE
+│   📄 package-lock.json
+│   📄 package.json
+│   📄 README.md
+│
+├── 📁 node_modules/
+│
+├── 📁 public/
+│   ├── 📁 assets/
+│   └── 📄 index.html
+│
+├── 📁 src/
+│   ├── 📁 components/
+│   ├── 📁 controllers/
+│   ├── 📁 models/
+│   ├── 📁 routes/
+│   ├── 📁 utils/
+│   ├── 📁 views/
+│   └── 📄 app.js
+│
+└── 📁 tests/
+```
 
 ### Contributing
 🤝 **Contribute**: We welcome contributions!
