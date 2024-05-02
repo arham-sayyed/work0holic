@@ -10,7 +10,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/arham-sayyed/work0holic)](https://github.com/arham-sayyed/work0holic/network)
 [![GitHub stars](https://img.shields.io/github/stars/arham-sayyed/work0holic)](https://github.com/arham-sayyed/work0holic/stargazers)
 [![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwork0holic.com)](https://work0holic.com) 
-
+[![wakatime](https://wakatime.com/badge/github/arham-sayyed/work0holic.svg)](https://wakatime.com/badge/github/arham-sayyed/work0holic)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=work0holic&label=visitors&color=0e75b6&style=flat" alt="arham-sayyed" /> </p>
 
 🚀 **Welcome to Work0Holic!**
