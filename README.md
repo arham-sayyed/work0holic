@@ -3,6 +3,7 @@
 # Work0Holic
 
 ### Important: 
+### project migrated to ReactJS ⚡
 ## LOOKING FOR COLLABORATORS 📢
 
 [![GitHub issues](https://img.shields.io/github/issues/arham-sayyed/work0holic)](https://github.com/arham-sayyed/work0holic/issues)
@@ -41,13 +42,13 @@ Work0Holic is your go-to web app for team collaboration and personal productivit
 - **Frontend Framework**: React
 - **Backend Framework**: Node.js, Express.js
 - **Database**: Firebase 
-- **UI Framework**: Bootstrap, Tailwind, Material UI
+- **UI Framework**:Tailwind, [Material UI](https://mui.com/material-ui/)
 - **Version Control**: Git
 - **Development Tools**: GitHub
 
 ### 🏗️ Standards/Models (can be improved)
 
-- **Design Patterns**: Model-View-Controller (MVC)
+- **Design Patterns**: Model-View-Controller (MVC) or React's Standard Design
 - **API Standards**: RESTful API
 
 
@@ -56,8 +57,10 @@ Work0Holic is your go-to web app for team collaboration and personal productivit
 📝 **Tasks**:
 - [x] Write README.md file
 - [x] Structure the project
-- [ ] Add UI designs
+- [x] Add Place holder pages
+- [ ] Connect Every page to each other for Routing
 - [ ] Add Login page 
+- [ ] Add UI designs
 
 - [ ] Add progress tracker
 - [ ] Add task list
@@ -68,29 +71,40 @@ Work0Holic is your go-to web app for team collaboration and personal productivit
 ### 📂 current project structure
 ```
 📁 project_name
-│   📄 .gitignore
-│   📄 index.js
-│   📄 LICENSE
-│   📄 package-lock.json
-│   📄 package.json
+│   📄 vite.config.js
 │   📄 README.md
-│
-├── 📁 node_modules/
-│
-├── 📁 public/
-│   ├── 📁 assets/
-│   └── 📄 index.html
+│   📄 package.json
+│   📄 package-lock.json
+│   📄 LICENSE
+│   📄 index.html
+│   📄 .gitignore
+│   📄 .eslintrc.cjs
 │
 ├── 📁 src/
+│   ├── 📄 main.jsx
+│   ├── 📄 App.jsx
+│   ├── 📄 app.css
 │   ├── 📁 components/
-│   ├── 📁 controllers/
-│   ├── 📁 models/
-│   ├── 📁 routes/
-│   ├── 📁 utils/
-│   ├── 📁 views/
-│   └── 📄 app.js
+│   │   ├── 📄 Button.jsx
+│   │   ├── 📁 dashboard/
+│   │   │   ├── 📄 Title.jsx
+│   │   │   ├── 📄 Orders.jsx
+│   │   │   ├── 📄 listItems.jsx
+│   │   │   ├── 📄 Deposits.jsx
+│   │   │   ├── 📄 dashboard.jsx
+│   │   │   └── 📄 Chart.jsx
+│   │   ├── 📁 auth/
+│   │   │   ├── 📄 signup.jsx
+│   │   │   └── 📄 login.jsx
+│   │   └── 📁 dashboard
+│   └── 📁 assets/
+│       └── 📄 react.svg
 │
-└── 📁 tests/
+└── 📁 public/
+    ├── 📄 vite.svg
+    └── 📄 index.html
+
+
 ```
 
 ### Contributing
