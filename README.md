@@ -51,6 +51,25 @@ Work0Holic is your go-to web app for team collaboration and personal productivit
 - **Design Patterns**: Model-View-Controller (MVC) or React's Standard Design
 - **API Standards**: RESTful API
 
+### Installation
+1. **Clone the Repository**:
+    ```bash
+    git clone https://github.com/arham-sayyed/work0holic.git
+    ```
+2. **Navigate to Project Directory**:
+    ```bash
+    cd work0holic
+    ```
+3. **Install Dependencies**:
+    ```bash
+    npm install
+    ```
+4. **Start Development Server**:
+    ```bash
+    npm run dev
+    ```
+5. **Open in Browser**:
+Visit http://localhost:5173 in your browser to see Work0Holic in action! 🌟
 
 
 ### Todo List
